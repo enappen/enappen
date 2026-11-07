@@ -11,7 +11,7 @@
 
 
 <h2>Languages</h2>
-HTML, CSS, C++, MySQL, and Python
+HTML, CSS, C++, MySQL, Java, SQL Server, and Python
 
 <h2>Skills</h2>
 <p>Adobe Creative Cloud, Blender, WordPress, and Figma</p>
